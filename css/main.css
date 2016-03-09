@@ -96,4 +96,16 @@ footer {
   float: left;
   margin: 1rem;
   padding: 1rem;
+  border-top: 3px solid #333;
+  border-bottom: 3px solid #333;
+}
+
+img {
+  float: right;
+  width: 300px;
+}
+
+figcaption {
+  float: right;
+  text-align: center;
 }
