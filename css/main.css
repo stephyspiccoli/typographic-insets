@@ -109,3 +109,19 @@ figcaption {
   float: right;
   text-align: center;
 }
+
+figure {
+  margin: 2rem;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  overflow: hidden;
+  width: 300px;
+  float: right;
+}
+
+blockquote {
+  float: left;
+  font-size: 1.5rem;
+  color: #333;
+
+}
